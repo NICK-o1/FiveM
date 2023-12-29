@@ -3,6 +3,7 @@
 add to qb-core\shared/vehicles.lua
 in order to purchase them at there vehicle shops
 
+
 { model = '', name = '', brand = '', price = , category = '', type = '', shop = '' },
 
 
