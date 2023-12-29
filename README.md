@@ -13,8 +13,11 @@ https://drive.google.com/drive/folders/1fc-2fKBbYJsG0-71ebnw99szmTnzNG9M?usp=sha
 add to server.cfg
 
 ensure mp2023_01
+
 ensure mp2023_02
 
 add to server resources folder then start server 
+
  mp2023_01
+ 
  mp2023_02
