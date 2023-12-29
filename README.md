@@ -1,10 +1,8 @@
 # FiveM chop shop dlc vehicles 
 
-add to qb-core\shared/vehicles.lua
-in order to purchase them at there vehicle shops
+add vehicles.lua to qb-core\shared/vehicles.lua
 
-
-{ model = '', name = '', brand = '', price = , category = '', type = '', shop = '' },
+to then purchase the cars
 
 
 google drive link for cars
