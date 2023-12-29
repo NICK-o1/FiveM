@@ -16,7 +16,7 @@ ensure mp2023_01
 
 ensure mp2023_02
 
-add to server resources folder then start server 
+add to server resources folder
 
  mp2023_01
  
