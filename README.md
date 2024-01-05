@@ -1,5 +1,9 @@
 # FiveM chop shop dlc vehicles 
 
+add this to server.cfg
+
+set sv_enforceGameBuild 3095
+
 add vehicles.lua to qb-core\shared/vehicles.lua
 
 to then purchase the cars
